@@ -1,6 +1,6 @@
 # WebVR
 
-Check out [the wiki](https://github.com/learn-vr/web-vr-learnathon/wiki) and [the repl.it](https://repl.it/@colevandersWands/learnathon-examples).  This README is useless.
+Check out [the wiki](https://github.com/learn-vr/web-vr-learnathon/wiki) and [the glitch](https://glitch.com/edit/#!/learn-vr).  This README is useless.
 
 
 ___
